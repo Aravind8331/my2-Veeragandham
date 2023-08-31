@@ -36,3 +36,12 @@ This table specifies details about the sports and their practice periods.
 | Chess | Focus | 30 min |
 | Carrom | Relief | 30 min |
 | Volleyball | Exercise | 1 hour|
+
+***
+
+### Quotes 
+> "The good thing about science is that it's true whether or not you believe in it."
+>-*Neil deGrasse Tyson*
+
+> "The important thing in science is not so much to obtain new facts as to discover new ways of thinking about them."
+>-_William Lawrence Bragg_
