@@ -15,3 +15,12 @@ It is known as the 'City of Canals'. There are many things Venice is famous for 
 4. Festivals
     1. Outfit 
     2. Travelling 
+
+* Bigoli in salsa
+* Risotto al nero di seppia
+* Sarde in saor
+* Baccalà mantecato
+* Fegato alla veneziana
+* Cicchetti
+    * Cake
+    * Cookie
