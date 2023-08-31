@@ -35,3 +35,4 @@ This table specifies details about the sports and their practice periods.
 | Cricket | Teamspirit | 2 hours|
 | Chess | Focus | 30 min |
 | Carrom | Relief | 30 min |
+| Volleyball | Exercise | 1 hour|
