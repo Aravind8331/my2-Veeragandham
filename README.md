@@ -25,3 +25,13 @@ It is known as the 'City of Canals'. There are many things Venice is famous for 
     * Cookie
 
 Check out [My Profile](MyStats.md) for more details about me and a glimpse of my profile image!.
+
+***
+
+# TABLES
+This table specifies details about the sports and their practice periods.
+| Game | Benefits | Play_Time|
+| --- | --- | ---: |
+| Cricket | Teamspirit | 2 hours|
+| Chess | Focus | 30 min |
+| Carrom | Relief | 30 min |
