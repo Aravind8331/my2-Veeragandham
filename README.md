@@ -1,5 +1,4 @@
 # my2-Veeragandham
-# my2-Veeragandham
 # Veeragandham Aravind
 ###### Venice 
 
@@ -24,3 +23,5 @@ It is known as the 'City of Canals'. There are many things Venice is famous for 
 * Cicchetti
     * Cake
     * Cookie
+
+Check out [My Profile](MyStats.md) for more details about me and a glimpse of my profile image!.
